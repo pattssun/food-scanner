@@ -1,0 +1,60 @@
+{
+	"food":[
+		{
+			"name":"apple",
+			"calories": "95",
+			"total fat": "0.3g",
+			"cholestrol": "0 mg",
+			"sodium": "2mg",
+			"potassium": "165 mg",
+			"total carbohydrates": "25 g",
+			"protein":"0.5 g"
+		},
+		{	"name":"pear",
+			"calories": "102",
+			"total fat":"0.2 g" ,
+			"cholestrol": "0 mg",
+			"sodium": "2 mg",
+			"potassium":"206 mg",
+			"total carbohydrates": "27 g",
+			"protein":"0.6 g"
+		},
+		{	"name":"banana",
+			"calories": "105",
+			"total fat":"0.4 g" ,
+			"cholestrol": "0 mg",
+			"sodium": "1 mg",
+			"potassium":"422 mg",
+			"total carbohydrates": "27 g",
+			"protein":"1.3 g"
+		},
+		{	"name":"strawberry",
+			"calories": "4",
+			"total fat":"0 g" ,
+			"cholestrol": "0 g",
+			"sodium": "0 g",
+			"potassium":"18 mg",
+			"total carbohydrates": "0.9 g",
+			"protein":"0.1 g"
+		},
+		{	"name":"pasta bolognese",
+			"calories": "297",
+			"total fat":"6 g" ,
+			"cholestrol": "23 mg",
+			"sodium": "114 mg",
+			"potassium":"290 mg",
+			"total carbohydrates": "47 g",
+			"protein":"16 g"
+		},
+		{	"name":"burger",
+			"calories": "354",
+			"total fat":"17 g" ,
+			"cholestrol": "56 mg",
+			"sodium": "497 mg",
+			"potassium":"271 mg",
+			"total carbohydrates": "29 g",
+			"protein":"20 g"
+		}
+
+	]
+}
